@@ -1,2 +1,4 @@
-# RDC
-Repositório de redes do curso de Técnico em Manutenção e Suporte em Informática
+
+Hi, I’m @Davi
+🙋‍♂️ Hello World, Hello Devs
+e-mail davipaulino7@hotmail.com
